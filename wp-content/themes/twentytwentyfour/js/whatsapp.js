@@ -2,7 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Array con los números de WhatsApp
     const wspNumbers = [
         '56948764112',  
-        '56973893988' 
+        '56973893988',
+        '56999794960',
+        '56981561685',
+        '56949948868'
     ];
 
     // Selecciona el botón de WhatsApp 
